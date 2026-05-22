@@ -1,2 +1,7 @@
-# Agricultural-Fields-Database
-SQL Server database project for managing agricultural fields and farmers data.
+# نظام إدارة الحقول الزراعية (Agricultural Fields Database)
+
+**إعداد البشمهندسة:** دنيا محمد عبد الله سليم  
+**تحت إشراف:** (دكتور/ علاءالدين داوود)
+
+## عن المشروع
+مشروع قاعدة بيانات متكامل باستخدام SQL Server لإدارة بيانات الحقول الزراعية، المزارعين، والمحاصيل وتسهيل متابعتها.
